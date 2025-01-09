@@ -63,8 +63,8 @@ out/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-
 # Project specific
+
 omnicore
 omnicore.exe
 config.local.yaml
