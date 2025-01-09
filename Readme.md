@@ -81,6 +81,7 @@ This project is licensed under the [MIT](LICENSE) License.
 <div align="center">
     <a href="https://github.com/rasperon/omnicore/graphs/contributors">
         <img src="https://contributors-img.web.app/image?repo=rasperon/omnicore" />
+        <img src="https://contributors-img.web.app/image?repo=resskok/chatting" />
     </a>
 </div>
 
