@@ -1,0 +1,83 @@
+
+
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+vendor/
+
+# Go workspace file
+go.work
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.cursor/
+*~
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+
+# Database files
+*.db
+*.sqlite
+
+# Debug files
+debug/
+
+# Build output
+build/
+out/
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Project specific
+omnicore
+omnicore.exe
+config.local.yaml
+*.pem
+*.key
+*.crt
+
+# Test coverage
+coverage.html
+coverage.xml
+profile.out
+
+# Plugin related
+plugins/*.so
+plugins/bin/
+*.plugin 
