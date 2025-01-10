@@ -1,4 +1,4 @@
-module github.com/corvus/omnicore
+module github.com/rasperon/omnicore
 
 go 1.21
 

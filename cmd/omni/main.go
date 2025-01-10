@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/corvus/omnicore/internal/command"
+	"github.com/rasperon/omnicore/internal/command"
 )
 
 func main() {
