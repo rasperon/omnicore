@@ -38,18 +38,18 @@ OmniCore is a community-driven security scanning platform developed for modern w
 
 ## 🛠️ Installation
 
+For detailed installation instructions, please refer to the [INSTALLER.md](INSTALLER.md) file.
+
+### Quick Installation
+
+#### For Linux:
 ```bash
-# Download the Go module
-go get github.com/rasperon/omnicore
+curl -sSL https://raw.githubusercontent.com/rasperon/omnicore/main/installers/install.sh | bash
+```
 
-# Install dependencies
-go mod download
-
-# Build the project
-go build -o omnicore cmd/main.go
-
-# Run
-./omnicore
+#### For Windows:
+```powershell
+iwr -useb https://raw.githubusercontent.com/rasperon/omnicore/main/installers/install.ps1 | iex
 ```
 
 ## 📚 Documentation
